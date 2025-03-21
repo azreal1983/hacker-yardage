@@ -8,6 +8,13 @@ This project wouldn't be possible without OpenStreetMap - please support them as
 
 ## Release Notes
 
+**Marxh 2025
+* Added Cart Path lines
+* Added Stream/river lines
+* change arcs to red
+* removed lines for tree distances
+* removed smoothing for tee boxes so they appear square
+
 **Jan 2025 - Version 0.2**
 * Added a toggle to calculate distances in meters
 * Added a toggle for whether to map individual trees
